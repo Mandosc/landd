@@ -78,7 +78,7 @@ a{
     margin-top: 20px;
     text-align: center;
     transition: background-color 0.4s;
-}
+}   
 a:hover{
     background-color: transparent;
 }
@@ -92,8 +92,13 @@ a:hover{
     .container{
         width: 80%;
         height: 600px;
+        position: relative;
+        top: 0px;
     }
     .photo{
+        background-attachment: scroll;
+        object-fit: cover;
+        background-position: center;
         height: 60%;
         width: 100%;    
     }
