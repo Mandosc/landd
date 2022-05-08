@@ -88,7 +88,7 @@ a:hover{
 @media (max-width: 767px) {
     .container{
         width: 95%;
-        height: 90%;
+        height: 800px;
     }
     .photo{
         background-attachment: scroll;
