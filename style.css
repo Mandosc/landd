@@ -94,9 +94,6 @@ a:hover{
         height: 600px;
     }
     .photo{
-        background-attachment: scroll;
-        object-fit: cover;
-        background-position: center;
         height: 60%;
         width: 100%;    
     }
@@ -110,8 +107,8 @@ a:hover{
     }
     .opicty{
         background-image: url(" https://mandosc.github.io/landd/back.jpg");
-        height: 90%;
-        width: 90%;
+        height: 100%;
+        width: 100%;
         position: fixed;
         top: 0;
         filter: blur(10px);
