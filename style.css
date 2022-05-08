@@ -87,14 +87,14 @@ a:hover{
 }
 @media (max-width: 767px) {
     .container{
-        width: 95%;
-        height: 800px;
+        width: 80%;
+        height: 600px;
     }
     .photo{
         background-attachment: scroll;
         object-fit: cover;
         background-position: center;
-        height: 65%;
+        height: 60%;
         width: 100%;    
     }
     .container h1{
